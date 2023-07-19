@@ -1,6 +1,6 @@
 .section-1{
     background-color: rgb(165, 170, 173);
-    background-image: url(/images/hero_2.jpg);
+    background-image: url(images/hero_2.jpg);
     background-size: cover;
     background-blend-mode: multiply;
     padding: 150px 20px 150px 20px;
