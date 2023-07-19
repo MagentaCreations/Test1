@@ -1,0 +1,22 @@
+.section-1{
+    background-color: rgb(165, 170, 173);
+    background-image: url(/images/hero_2.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding: 150px 20px 150px 20px;
+}
+.section-1-title{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 34px;
+}
+
+@media only screen and (min-width: 800px){
+    .section-1-title{
+        font-size: 74px;
+    }
+    .section-1{
+        padding: 150px 300px 150px 300px;
+    }
+}
